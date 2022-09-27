@@ -1,7 +1,9 @@
-<div style="width: 100%; flex-direction: column; display: flex; align-items: center;">
+<p align="center">
   <img src="./assets/in-the-name-of-Allah.png" style="width: 65%">
-  <h2>In the name of Allah</h2>
-</div>
+</p>
+<p align="center">
+  <strong style="font-size: 1.3rem">In the name of Allah</strong>
+</p>
 
 Self-proclaimed software engineer. Handling Typescript at daily basis. Currently striving to learn Rust to complete my mastery of fullstack software development.
 
